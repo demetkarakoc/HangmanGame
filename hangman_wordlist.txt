@@ -1,0 +1,6 @@
+seda, fatma, kedi, çiçek, lale, beyaz, siyah, taylor, selena, defter, kalem,
+müzik, ingilizce, python, kahve, çay, bilgisayar, tenis, raket, keman, 
+gitar, dans
+
+
+
